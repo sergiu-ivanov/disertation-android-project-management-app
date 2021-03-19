@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F57C00</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_bottom">#5aed64</color>
+
+    <color name="sign_in_color">#F57C00</color>
+
+    <color name="background">#FFF3E0</color>
+    <color name="btn_register">#B388FF</color>
+    <color name="white">#ffffff</color>
+    <color name="light_orange">#FFA726</color>
+    <color name="underline">#ff6600</color>
+</resources>

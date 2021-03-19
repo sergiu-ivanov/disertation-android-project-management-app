@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+
+    android:id="@+id/scroll_view_layout_queue"
+    android:focusable="true">
+
+    <LinearLayout
+        android:id="@+id/linear_layout_student_queue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+
+        <TextView
+            android:id="@+id/title_field_student_queue"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"
+            android:textAllCaps="true"
+            android:fontFamily="@font/montserrat"
+
+            />
+
+        <TextView
+            android:id="@+id/description_student_queue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textSize="18sp"
+            android:fontFamily="@font/montserrat"
+            />
+
+        <TextView
+            android:id="@+id/author_student_queue"
+            android:layout_gravity="end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Author"
+            android:textSize="18sp"
+            android:textStyle="bold|italic"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/email_student_queue"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="email"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/queue_student_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Queue position: "
+            android:textColor="@color/colorAccent"
+            android:textSize="18sp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            />
+
+
+        <Button
+            android:id="@+id/btn_refuse_queue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/sign_in_color"
+            android:text="Refuse"
+            android:textColor="@color/white"></Button>
+
+    </LinearLayout>
+
+
+</ScrollView  >

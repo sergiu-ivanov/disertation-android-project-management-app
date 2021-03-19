@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project Management</string>
+    <string name="app_in_name">University of Exeter</string>
+    <!--    <string name="app_in_name_1">Project Management</string>-->
+    <string name="app_in_name_2">Please register or sign in</string>
+    <string name="forgot_pass_text">Forgot password?</string>
+    <string name="btn_sign_in">Sign in</string>
+    <string name="btn_register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">My projects</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_fragment">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="project_fragment">Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="staff_projects_tv">Staff projects fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
