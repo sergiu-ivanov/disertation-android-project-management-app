@@ -1,7 +1,7 @@
 
 ### About
-
-This application is designed to help students and lecturers at the University of Exeter to go through dissertation selection process in a efficient manner. It allows students to view and choose a project topic for their dissertation in real time. Also it reduces lecturers' paperwork and the overall bureaucracy.
+This is project was part of my disertation for University of Exeter [May - 2020].
+  It represents an Android application designed to help students and lecturers at the University of Exeter to go through dissertation selection process in a efficient manner. It allows students to view and choose a project topic for their dissertation in real time. Also it reduces lecturers' paperwork and the overall bureaucracy.
 The application provides two type of interfaces, for students and academic staff. It represents one of the potential alternatives to the current inneficient project management system at the University of Exeter.
 
 ### Some Screenshots
